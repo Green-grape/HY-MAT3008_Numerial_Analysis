@@ -1,4 +1,6 @@
-## Hanyang University MAT3008(Numberical Analysis) Assignment
+# Hanyang University MAT3008(Numberical Analysis)
+
+## Assignment
 
 ### Homework1
 check machine accuracy
@@ -18,6 +20,13 @@ Doing gaussian and uniform random sampling with various sampling count and draw 
 ### Homework6
 Get best parameters of linear regression from an LSE perspective
 
+## Practice
 
-### Documents
+### data_fitting_practice
+Fitting Image Homography
+
+### dsp_practice
+Implementa Spatial Filtering
+
+## Documents
 [Notion](https://paint-plastic-7c4.notion.site/Numerical-Analysis-Homework-1745a15d441a80989850e09c40ad3f7f?pvs=4)
